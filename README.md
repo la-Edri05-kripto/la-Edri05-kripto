@@ -8,3 +8,4 @@
 la-Edri05-kripto/la-Edri05-kripto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+PLEASE SEND DOT COINS TO OUR WALLET 16Aa6HoTcJVKgT79DSGzyUxyHqgNr4cEtxbugKUGjjk7Lztk
